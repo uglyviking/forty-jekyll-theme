@@ -39,4 +39,4 @@ markdown: kramdown
 sass:
   style: compressed
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
